@@ -26,7 +26,7 @@ Usage
 Clone this repository:
 bash
 
-git clone https://github.com/yourusername/autoscout-bot.git
+git clone https://github.com/mxyldrm/autoscout.git
 cd autoscout-bot
 Create a .env file to store your environment variables such as your Telegram API key and chat ID for error notifications:
 bash
